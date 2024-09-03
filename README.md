@@ -1,1 +1,85 @@
-# pagadri
+<html>
+<head>
+<title>Hamburguesa de reyes</title>
+</head>
+<body bgcolor="skyblue">
+<pre>
+<script languaje="javascript" type="text/javascript">
+var m1="Te presento";
+var m2="Mi comida favorita";
+var mensaje=m1+" "+m2;
+alert(mensaje);
+</script>
+
+<form method=get action="adriconde@gmail.com">
+<center><b>Burger King</b><center>
+<center>Hoy les presento a esta cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de hamburguesas
+que cuenta con variedad de hamburguesas con deliciosos sabores<c</enter>
+<img src="mera.png" width="300" height="200">
+
+
+<table border>
+<tr>
+<td>Hamburguesas</td><td>Precio</td><td>¿Trae papas?</td>
+</tr>
+<tr>
+<td>Whopper</td><td>Q50.25</td><td>Con papas y bebida</td>
+
+</tr>
+<tr>
+<td>Double Whopper</td><td>Q58.76</td><td>Con papas y bebida</td>
+
+</tr>
+<tr>
+<td>Bacon & Cheese Whopper</td><td>Q57.99</td><td>Con papas y bebida</td>
+
+</tr>
+<tr>
+<td>Big King</td><td>Q49.47</td><td>Con papas y bebida</td>
+
+</tr>
+<tr>
+<td>Original Chicken Sandwich</td><td>Q50.25</td><td>Con papas y bebida</td>
+
+
+</tr>
+</table>
+
+<center><b>Un poco de historia</b><center>
+
+<center>Fue fundada el 4 de diciembre de 1954 en Miami, cuando dos jóvenes emprendedores llamados James McLamore y David R. 
+Edgerton inauguraron este restaurante basado en un concepto diferente al que existía y que se ha mantenido hasta hoy: «The Home of The Whopper».<center>
+
+
+<center><b>Producto Rey</b></center>
+
+En 1955, "el producto rey" fue incorporado como la imagen de la marca y ha perdurado como referencia: 
+la Whopper, el producto principal de Burger King.
+<img src="wop.png" width="300" height="300">
+
+<ul>
+<li>Burger King fue una de las primeras cadenas de comida rápida en expandirse internacionalmente. 
+Abrieron su primer restaurante fuera de los Estados Unidos en Puerto Rico en 1963, y en 1975 inauguraron su primera tienda en Europa, en Madrid, España​.</li>
+<li>El lema "Have It Your Way" (A tu manera) fue lanzado en 1974 y se convirtió en uno de los más exitosos en la historia de la publicidad. 
+Permitió a los clientes personalizar sus hamburguesas</li>
+<li>Desde su fundación, Burger King ha cambiado de propietario varias veces.</li>
+</ul>
+
+<a href="https://www.burgerking.es/carta">Carta/Menu</a>
+
+<img src="anun.jpg" width="50%" height="300">
+
+
+<hr width="100%" size="11">
+
+Seleccione su respuesta
+<select>
+<option> Me gusta Burguer King </option>
+<option> No me gusta Burguer King </option>
+<option> Nunca he probado Burguer King </option>
+</select>
+
+
+<input type="submit" value="Enviar">
+
+<input type="reset" value="Borrar">
